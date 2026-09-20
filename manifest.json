@@ -1,0 +1,16 @@
+{
+  "name": "Quartz Location",
+  "short_name": "Quartz",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#E91E63",
+  "icons": [
+    {
+      "src": "DDAEC3D7-E38F-471A-98F2-3400C98E9972.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
